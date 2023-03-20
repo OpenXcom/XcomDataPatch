@@ -1,0 +1,4 @@
+# Make sure repository files are binary
+*.txt text diff
+*.md text diff
+* binary
